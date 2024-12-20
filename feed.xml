@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>munzies</title>
+    <link href="https://leibmunz.github.io/to_munz_ies/feed.xml" rel="self" />
+    <link href="https://leibmunz.github.io/to_munz_ies" />
+    <updated>1970-01-01T10:00:00+10:00</updated>
+    <author>
+        <name>YLM</name>
+    </author>
+    <id>https://leibmunz.github.io/to_munz_ies</id>
+
+</feed>
