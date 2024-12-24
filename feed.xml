@@ -3,10 +3,32 @@
     <title>munzies</title>
     <link href="https://leibmunz.github.io/munzies/feed.xml" rel="self" />
     <link href="https://leibmunz.github.io/munzies" />
-    <updated>1970-01-01T10:00:00+10:00</updated>
+    <updated>2024-12-24T14:18:15+11:00</updated>
     <author>
         <name>YLM</name>
     </author>
     <id>https://leibmunz.github.io/munzies</id>
 
+    <entry>
+        <title>Leib</title>
+        <author>
+            <name>YLM</name>
+        </author>
+        <link href="https://leibmunz.github.io/munzies/leib.html"/>
+        <id>https://leibmunz.github.io/munzies/leib.html</id>
+            <category term="authors"/>
+
+        <updated>2024-12-24T14:18:02+11:00</updated>
+            <summary>
+                <![CDATA[
+                    Linkedin Accomplished information technology executive, with a wealth of experience in technology architecture and information security, applied to finance and&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="https://www.linkedin.com/in/leibmunz/" target="_blank" rel="noopener noreferrer">Linkedin</a></p>
+<p>Accomplished information technology executive, with a wealth of experience in technology architecture and information security, applied to finance and transport industries, with over 15 years of experience in information, risk and compliance management. </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
